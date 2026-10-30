@@ -1,0 +1,7 @@
+
+{
+    "ship_threshold": 25,
+    "confirm_threshold": 45,
+    "prepaid_threshold": 65,
+    "prepaid_discount": 20
+}
