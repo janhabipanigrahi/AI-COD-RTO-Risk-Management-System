@@ -5,7 +5,7 @@ I used AI assistance during this assignment to understand requirements, plan the
 
 ## Tools used
 
-- ChatGPT: Helped me understand the assignment, plan the project structure, troubleshoot coding questions and improve documentation.
+- ChatGPT: Helped me  troubleshoot coding questions and improve documentation.
 - Python and Scikit-learn: Used to prepare the data and train the Random Forest model.
 - Streamlit: Used to build the dashboard and application interface.
 
